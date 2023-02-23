@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    base: "/",
+    base: '/phaser-ts-template/',
     server:{
         port:3000
     }

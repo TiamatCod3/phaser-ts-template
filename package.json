@@ -4,7 +4,7 @@
   "homepage": "https://tiamatcod3.github.io/phaser-ts-template",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "tsc && vite build",
     "serve": "vite preview"
